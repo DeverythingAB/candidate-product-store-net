@@ -23,4 +23,10 @@ NOTE: Think of this as code that will be run in a production environment<br>
 <br>
 Documentation:<br>
 <br>
-API url: https://api.deverything.se/candidate-product-store<br>
+Documentation:
+
+API base url: https://api.deverything.se/candidate-product-store
+
+Swagger UI describing the API: https://candidate-product-store.api.deverything.se/ (Note: For the moment you cannot use the swagger ui to make the actual API calls)
+
+You will notice that you need an api key to continue, if you didn't receive one by e-mail, contact us at jobs@deverything.se and we will send you a new one.
